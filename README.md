@@ -1,18 +1,10 @@
 # Just a Meeting - React TypeScript & Spring Boot
 
-### Meeting List & Schedule Form
-https://github.com/shlomiaflalo/Just-a-react-meeting/blob/main/Screenshot%202025-04-01%20at%2005.38.03.png
-
-https://github.com/shlomiaflalo/Just-a-react-meeting/blob/main/5E8DDDBC-A4A6-472D-81BD-2A1EBF70F853.jpeg
-
-## Screenshots
-### Meeting List & Schedule Form
+### Schedule Form
 ![Meeting List](https://raw.githubusercontent.com/shlomiaflalo/Just-a-react-meeting/main/Screenshot%202025-04-01%20at%2005.38.03.png)
 
 ### No Meetings State
 ![No Meetings](https://raw.githubusercontent.com/shlomiaflalo/Just-a-react-meeting/main/5E8DDDBC-A4A6-472D-81BD-2A1EBF70F853.jpeg)
-
-
 
 ## Overview
 This is a simple meeting scheduling application built using **React with TypeScript** on the frontend and **Spring Boot** on the backend. The application allows users to:
